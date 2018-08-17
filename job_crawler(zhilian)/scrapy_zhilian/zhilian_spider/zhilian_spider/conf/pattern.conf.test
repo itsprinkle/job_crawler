@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<site>
+    <sub url="http://www.huxiu.com/business.html?f=index_nav_article" lang="chn">
+        <item xpath='//div[@class="mob-ctt"]/h3/a/@href' relabs="relative"/>
+    </sub>
+
+    <sub url="http://www.huxiu.com/startups.html?f=index_nav_article" lang="chn">
+        <item xpath='//div[@class="mob-ctt"]/h3/a/@href' relabs="relative"/>
+    </sub>
+
+    <sub url="http://www.huxiu.com/brief.html?f=index_nav_article" lang="chn">
+        <item xpath='//div[@class="mob-ctt"]/h3/a/@href' relabs="relative"/>
+    </sub>
+
+    <sub url="http://www.huxiu.com/lifestyle.html?f=index_nav_article" lang="chn">
+        <item xpath='//div[@class="mob-ctt"]/h3/a/@href' relabs="relative"/>
+    </sub>
+
+
+    <sub url="http://www.iheima.com/" lang="chn">
+        <item xpath='//div[@class="new-txt-list f-l w-572"]/h3/a/@href' relabs="absolute"/>
+    </sub>
+
+    <sub url="http://36kr.com/" lang="chn">
+        <item xpath='//article/div[@class="desc"]/a/@href' relabs="relative"/>
+    </sub>
+    
+   <sub url="http://tech.sina.com.cn/" lang="chn">
+        <item xpath='//div[@class="feed-card-item"]/h2/a/@href' relabs="absolute"/>
+   </sub>
+
+   <sub url="http://tech.sina.com.cn/internet/" lang="chn">
+        <item xpath='//ul[@class="ul02"]//li/h3/a/@href' relabs="absolute"/>
+   </sub>
+    
+   <sub url="http://tech.sina.com.cn/it/" lang="chn">
+        <item xpath='//ul[@class="ul02"]//li/h3/a/@href' relabs="absolute"/>
+   </sub>
+
+   <sub url="http://tech.163.com/" lang="chn">
+        <item xpath='//div[@class="hot-text right"]/h2[@class="color-link"]/a/@href' relabs="absolute"/>
+   </sub>
+   <sub url="http://tech.qq.com/" lang="chn">
+        <item xpath='//h3[@class="f18 l26"]/a/@href' relabs="absolute"/>
+   </sub>
+
+</site>

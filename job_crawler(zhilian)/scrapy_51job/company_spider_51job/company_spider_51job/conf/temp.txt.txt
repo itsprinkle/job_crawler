@@ -1,0 +1,15 @@
+无经验 01 workyear
+1-3年 02 workyear
+3-5年 03 workyear
+5-10年 04 workyear
+10年以上 05 workyear
+
+
+初中及以下 01 degreefrom
+高中/中技/中专 02 degreefrom
+大专 03 degreefrom
+本科 04 degreefrom
+硕士 05 degreefrom
+博士 06 degreefrom
+
+
